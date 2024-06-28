@@ -7,4 +7,4 @@ pool:
 steps:
 - script: | 
     echo "This is a Demo yaml DevSecOps for pipeline"
-  displayName: "Print console Test for Demo"
+  displayName: "Print console Test for Demo Project"
